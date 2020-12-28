@@ -3,7 +3,7 @@
         "host": "cemaltunerpostgres.postgres.database.azure.com",
         "dbname": "postgres",
         "user": "semoslar",
-        "password": ""Cem.altuner1",
+        "password": "Cem.altuner1",
         "ssl": "require"
     }
 }
